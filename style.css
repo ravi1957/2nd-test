@@ -1,0 +1,61 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h2 {
+    background-color: aqua;
+    text-align: end;
+    border-top: .2rem solid black;
+    margin-top: .2vh;
+}
+
+h1 {
+    text-align: center;
+    font-size: 2.7rem;
+    padding: 2vh;
+}
+
+h3 {
+    text-align: center;
+    font-size: 2.5rem;
+}
+
+
+ul li {
+    /* float: left;
+    margin: 2vh 3vw; */
+    /* margin: 3vh 15vw 3vh 10vw; */
+    align-items: center;
+    font-weight: bold;
+    /* width: 10vw; */
+    /* border: 2px solid black; */
+}
+
+summary {
+    text-align: center;
+    font-size: 1.5rem;
+}
+
+p {
+    text-align: center;
+    font-size: 1.3rem;
+    padding: 1vh 2vw 1vh 2vw;
+    font-weight: bold;
+}
+
+span {
+    text-decoration: underline;
+}
+
+p strike span {
+    word-spacing: 2.4rem;
+
+}
+
+th{
+    background-color: yellow;
+}
+table td tbody{
+    border: .2rem dashed black;
+}
